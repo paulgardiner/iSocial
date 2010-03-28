@@ -1,5 +1,0 @@
-<?php
-
-    $twitter = new twitter;
-
-?>
